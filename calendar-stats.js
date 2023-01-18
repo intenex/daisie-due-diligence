@@ -1,4 +1,4 @@
-const calendarJson = require('./parsedCalendarData.json');
+const calendarJson = require('./dedupedParsedCalendarData.json');
 
 let totalAttendeeCount = 0;
 let teacherCount = {};
