@@ -1,0 +1,1174 @@
+[
+    {
+        "id": "user_7t1ovRfFC5aAABWpQDn58h",
+        "type": "users",
+        "attributes": {
+            "username": "rrnoall",
+            "name": "R.R. Noall",
+            "bio": "published writer, professor, and CEO of a marketing agency in Denver, CO",
+            "url": "rrnoall.com/",
+            "flair": "mentor"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_pC2yDc2yxSRq8sZ9BQtJfM",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_pC2yDc2yxSRq8sZ9BQtJfM",
+                        "path": "avatars/user_7t1ovRfFC5aAABWpQDn58h/media_8RfjzhSGHPTuvHBP2ma9ab.jpeg",
+                        "extension": "jpeg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_7t1ovRfFC5aAABWpQDn58h/media_8RfjzhSGHPTuvHBP2ma9ab.jpeg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_hg5GqSXNfSmfAHMo5R4SGa",
+        "type": "users",
+        "attributes": {
+            "username": "daisieworkshops",
+            "name": "daisieworkshops",
+            "bio": "",
+            "url": "",
+            "flair": "team_daisie"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_ovaBEDYxLnSKuKxNwHg2bZ",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_ovaBEDYxLnSKuKxNwHg2bZ",
+                        "path": "avatars/user_hg5GqSXNfSmfAHMo5R4SGa/media_2MHXt5dBFNYuFFPoWRnofG.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_hg5GqSXNfSmfAHMo5R4SGa/media_2MHXt5dBFNYuFFPoWRnofG.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_6gBfM9V69BZGZsr9u1wzbh",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "London, England",
+                        "placeId": "ChIJdd4hrwug2EcRmSrV3Vo6llI"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_qkfYhcqkNvipPMCNwJe2EG",
+        "type": "users",
+        "attributes": {
+            "username": "kristal_nic",
+            "name": "Kristal",
+            "bio": "",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_sGUaZLrjM3oob4aMcQwd2R",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_sGUaZLrjM3oob4aMcQwd2R",
+                        "path": "avatars/user_qkfYhcqkNvipPMCNwJe2EG/media_tNLXedzocq27PcuHA18Nir.heic",
+                        "extension": "heic",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_qkfYhcqkNvipPMCNwJe2EG/media_tNLXedzocq27PcuHA18Nir.heic;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_uywhVEhf3ykfLsS1JBwSF7",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Trinidad and Tobago",
+                        "placeId": "ChIJxbZQY5cHNowRJ_E5xlUoCP8"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_hCdQnQ1QXwTZNCUJok34tj",
+        "type": "users",
+        "attributes": {
+            "username": "lucyroberts",
+            "name": "Lucy Roberts",
+            "bio": "",
+            "url": "",
+            "flair": "founding_member"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_t6pt3gF6hfYzEXuKFc8FTn",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_t6pt3gF6hfYzEXuKFc8FTn",
+                        "path": "avatars/user_hCdQnQ1QXwTZNCUJok34tj/media_pbd6aMVjX3UPzpijB1xP2b.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_hCdQnQ1QXwTZNCUJok34tj/media_pbd6aMVjX3UPzpijB1xP2b.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_x2EQFuqNR7ZgUTojTy83JT",
+        "type": "users",
+        "attributes": {
+            "username": "karyn",
+            "name": "Karyn",
+            "bio": "Fashion student who loves film, music and visual art.",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_h2hgyXY6Nq6D9gufKD4WSd",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_h2hgyXY6Nq6D9gufKD4WSd",
+                        "path": "avatars/user_x2EQFuqNR7ZgUTojTy83JT/media_grpQoMUP8YFWgTMibeixfd.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_x2EQFuqNR7ZgUTojTy83JT/media_grpQoMUP8YFWgTMibeixfd.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_d5RBwZ3TptRUf8MW2XPfJE",
+        "type": "users",
+        "attributes": {
+            "username": "estersinhache",
+            "name": "Ester Sinhache",
+            "bio": "",
+            "url": "",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_4Ha6K4sGQpncvDwVPwtT86",
+        "type": "users",
+        "attributes": {
+            "username": "rohinikejriwal",
+            "name": "Rohini",
+            "bio": "",
+            "url": "Www.thealiporepost.com",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_g18eFjVhTXLkuHyc4VPKPW",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_g18eFjVhTXLkuHyc4VPKPW",
+                        "path": "avatars/user_4Ha6K4sGQpncvDwVPwtT86/media_o8Y3K7pMqHCVKHaJcCDfML.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_4Ha6K4sGQpncvDwVPwtT86/media_o8Y3K7pMqHCVKHaJcCDfML.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_qUcv5qkJ8DFgMDmgD2YQmv",
+        "type": "users",
+        "attributes": {
+            "username": "gabizack",
+            "name": "Gabi Zack",
+            "bio": "I write songs and sometimes I sing them",
+            "url": "Instagram.com/heygabistar",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_euFxQpdF2rkQPGqPVE248W",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_euFxQpdF2rkQPGqPVE248W",
+                        "path": "avatars/user_qUcv5qkJ8DFgMDmgD2YQmv/media_rHwHBNioNf59Zoo2qwMGTg.jpeg",
+                        "extension": "jpeg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_qUcv5qkJ8DFgMDmgD2YQmv/media_rHwHBNioNf59Zoo2qwMGTg.jpeg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_wfqrYJRLCikWcVnyuY8Axk",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Dallas, Texas",
+                        "placeId": "ChIJS5dFe_cZTIYRj2dH9qSb7Lk"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_uRzeFQXj4QTSqLY4egEhGx",
+        "type": "users",
+        "attributes": {
+            "username": "thaimoreira",
+            "name": "Thai Moreira",
+            "bio": "",
+            "url": "instagram.com/thai_amoreira/",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_sjQaqEXuxNjgfYCeQ6BsZb",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_sjQaqEXuxNjgfYCeQ6BsZb",
+                        "path": "avatars/user_uRzeFQXj4QTSqLY4egEhGx/media_4fkrpdbopzCfLguer8xSrK.png",
+                        "extension": "png",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_uRzeFQXj4QTSqLY4egEhGx/media_4fkrpdbopzCfLguer8xSrK.png;resize(1200,9999,fit).png"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_na54ePaQvAM2SPx9oUxJjX",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Brazil",
+                        "placeId": "ChIJzyjM68dZnAARYz4p8gYVWik"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_sPzJxFtUF6Parnf6WMXwa6",
+        "type": "users",
+        "attributes": {
+            "username": "sugarjonesproductions",
+            "name": "Sugar Jones Productions",
+            "bio": "🇫🇮 Finland 🇫🇮\nMusician, actress, model, writer, photographer, student. \nInstagram: @cinnamonlebun and @sugarjonesproductions",
+            "url": "instagram.com/cinnamonlebun",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_rNYfDGaBf8rwn7gjfMHgdA",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_rNYfDGaBf8rwn7gjfMHgdA",
+                        "path": "avatars/user_sPzJxFtUF6Parnf6WMXwa6/media_uV1AywbPW7rZLoN8ZMbX5H.png",
+                        "extension": "png",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_sPzJxFtUF6Parnf6WMXwa6/media_uV1AywbPW7rZLoN8ZMbX5H.png;resize(1200,9999,fit).png"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_iWTrTQkmbGEBMj12cZNBMA",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Helsinki",
+                        "placeId": "ChIJkQYhlscLkkYRY_fiO4S9Ts0"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_vuaMdp9uJaNqQyiPj2BTeg",
+        "type": "users",
+        "attributes": {
+            "username": "james_dean_949352",
+            "name": "James Dean",
+            "bio": "",
+            "url": "",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_wLk5aWg8Sk1PULeXdGbqQA",
+        "type": "users",
+        "attributes": {
+            "username": "alexhopwood",
+            "name": "Alex Hopwood",
+            "bio": "Graphic Designer & Music Maker with a background in the Performing Arts.   Lover of multi-sensory design & self-confessed sound nerd...  Let's get creative!",
+            "url": "alexhopwood.com/",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_7QTvU3FHaCqHC9KGoDc4RP",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_7QTvU3FHaCqHC9KGoDc4RP",
+                        "path": "avatars/user_wLk5aWg8Sk1PULeXdGbqQA/media_fcqcuu1bVgDj4cQ1AGgkoj.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_wLk5aWg8Sk1PULeXdGbqQA/media_fcqcuu1bVgDj4cQ1AGgkoj.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_m5fvEcuYzHMiME5gtKmJZw",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Southampton, England",
+                        "placeId": "ChIJCSkVvleJc0gR8HHaTGpajKc"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_qeGTr7GLj7My1sf8KVER3V",
+        "type": "users",
+        "attributes": {
+            "username": "heavenbeetle",
+            "name": "Danielle Aranda",
+            "bio": "",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {
+                "data": {
+                    "id": "location_tXJpkZd44QXDr4s4UYzfKm",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Philippines",
+                        "placeId": "ChIJY96HXyFTQDIRV9opeu-QR3g"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_n6kYGFivuLxXvPtUDopg4V",
+        "type": "users",
+        "attributes": {
+            "username": "harry_hurst_833786",
+            "name": "Harry Hurst",
+            "bio": "",
+            "url": "",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_qat3pon6uPzzQPnzNFKAdq",
+        "type": "users",
+        "attributes": {
+            "username": "aman_asthana_23150",
+            "name": "Aman Asthana",
+            "bio": "",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_dtnYDzyCVQeV6CnPAXNv4o",
+        "type": "users",
+        "attributes": {
+            "username": "mv_258578",
+            "name": "MV",
+            "bio": "",
+            "url": "",
+            "flair": "founding_member"
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_7riEPmXaKQiL3RpFhDed14",
+        "type": "users",
+        "attributes": {
+            "username": "jaspreet",
+            "name": "Jaspreet Kaur Taneja",
+            "bio": "https://youtube.com/channel/UCgXS_ZCgYtTNl5gWLQaHNrA",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_tHNvEfG9ZiLnEqxWGyGjry",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_tHNvEfG9ZiLnEqxWGyGjry",
+                        "path": "avatars/user_7riEPmXaKQiL3RpFhDed14/media_64EsQ2UTrKnpzEaZZUdZr4.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_7riEPmXaKQiL3RpFhDed14/media_64EsQ2UTrKnpzEaZZUdZr4.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_2ytRihhf7zkdopwDzt3A6N",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Gurugram, Haryana",
+                        "placeId": "ChIJWYjjgtUZDTkRHkvG5ehfzwI"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_83phoBFWb4ejSwxYZNpiAE",
+        "type": "users",
+        "attributes": {
+            "username": "sarascopigno",
+            "name": "Sara Scopigno",
+            "bio": "Follow @hermitpoetry on Instagram to read my poems",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_2xY2YJghvFqroUHjsVyxcE",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_2xY2YJghvFqroUHjsVyxcE",
+                        "path": "avatars/user_83phoBFWb4ejSwxYZNpiAE/media_mN9GoZkj6GB9EJuHxQfUXF.png",
+                        "extension": "png",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_83phoBFWb4ejSwxYZNpiAE/media_mN9GoZkj6GB9EJuHxQfUXF.png;resize(1200,9999,fit).png"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_wSwy3PUpNxx5JbV4FfNPNf",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Italy",
+                        "placeId": "ChIJA9KNRIL-1BIRb15jJFz1LOI"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_bnkz7JBkabqUhf1u1pVy3u",
+        "type": "users",
+        "attributes": {
+            "username": "wangdi",
+            "name": "wang di",
+            "bio": "what do this caged bird know about the sunlit uplands, when the faucet beside him is turned on to silence the cry",
+            "url": "youtube.com/wangdi",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_b1M6QXSZQmhg4ckbjeNPPQ",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_b1M6QXSZQmhg4ckbjeNPPQ",
+                        "path": "avatars/user_bnkz7JBkabqUhf1u1pVy3u/media_tNNcSRHsuiMh7FNodNwUsf.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_bnkz7JBkabqUhf1u1pVy3u/media_tNNcSRHsuiMh7FNodNwUsf.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_9krggjyw5vDYkemy351E1H",
+        "type": "users",
+        "attributes": {
+            "username": "jackricedesigns",
+            "name": "Jack Rice",
+            "bio": "yo! expressive creative. \npoet, illustrator, typographer and street photographer \nfollow me @jackricedesigns 💛",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_qsi4URegRqPimqoZb7Frs2",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_qsi4URegRqPimqoZb7Frs2",
+                        "path": "avatars/user_9krggjyw5vDYkemy351E1H/media_bSY54tE8f9NVD6WYGiBQ3P.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_9krggjyw5vDYkemy351E1H/media_bSY54tE8f9NVD6WYGiBQ3P.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_cKcNJc3w7NAfpkEr2aP99R",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Devon, England",
+                        "placeId": "ChIJRwLA2qv4a0gR_Vicygy6xhI"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_9jR1HnhveCP848zgyo24Hi",
+        "type": "users",
+        "attributes": {
+            "username": "livkris",
+            "name": "Liv",
+            "bio": "currently studying filmproduction ✨ also very much into everything music and writing",
+            "url": "",
+            "flair": "founding_member"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_amAJBQDXw9yB4BGDRxHxAL",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_amAJBQDXw9yB4BGDRxHxAL",
+                        "path": "avatars/user_9jR1HnhveCP848zgyo24Hi/media_wa7vkPDRAkM87azTqz5wr8.heic",
+                        "extension": "heic",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_9jR1HnhveCP848zgyo24Hi/media_wa7vkPDRAkM87azTqz5wr8.heic;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_2fRa8JPXmxBD4wozMWrysz",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Germany",
+                        "placeId": "ChIJa76xwh5ymkcRW-WRjmtd6HU"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_bnGMBd3qH4Ssi92hQuEEsb",
+        "type": "users",
+        "attributes": {
+            "username": "damari_li_290725",
+            "name": "Damari Li",
+            "bio": "",
+            "url": "",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_jdYV92oCe7QBQLVkAZ8Wo4",
+        "type": "users",
+        "attributes": {
+            "username": "damari_li_148347",
+            "name": "Damari Li",
+            "bio": "",
+            "url": "",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_8gzpuU7iF3k9RTW2jhwBZD",
+        "type": "users",
+        "attributes": {
+            "username": "damari_li_373073",
+            "name": "Damari Li",
+            "bio": "",
+            "url": "",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_7VauYy2AkVwNqmL1Wv1fPs",
+        "type": "users",
+        "attributes": {
+            "username": "manasmish",
+            "name": "Manas Mishra",
+            "bio": "@atemyart IG\nPhotographer, Filmmaker\\editor and Graphic Designer! :)",
+            "url": "",
+            "flair": "founding_member"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_qzCZw7yRiuC2rHGJ4boX3z",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_qzCZw7yRiuC2rHGJ4boX3z",
+                        "path": "avatars/user_7VauYy2AkVwNqmL1Wv1fPs/media_iR3PShMQmRC9Xm3kA4zozn.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_7VauYy2AkVwNqmL1Wv1fPs/media_iR3PShMQmRC9Xm3kA4zozn.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_5CBaUGxcXNfFvisauAEERN",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Mumbai, Maharashtra",
+                        "placeId": "ChIJwe1EZjDG5zsRaYxkjY_tpF0"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_jvzi1GVmAGyqHxte592pyf",
+        "type": "users",
+        "attributes": {
+            "username": "dom",
+            "name": "dom santry",
+            "bio": "founder here @ daisie",
+            "url": "www.daisie.com",
+            "flair": "verified"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_rHBMY35JSNdvsTnau3bsTM",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_rHBMY35JSNdvsTnau3bsTM",
+                        "path": "avatars/user_jvzi1GVmAGyqHxte592pyf/media_acE5wFJEPV91nkQ5BA3gHd.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_jvzi1GVmAGyqHxte592pyf/media_acE5wFJEPV91nkQ5BA3gHd.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_aMFWPu9VQrgF1PePxMLNCy",
+        "type": "users",
+        "attributes": {
+            "username": "michelle_c_paige",
+            "name": "Michelle C. Paige",
+            "bio": "Dreamer & Storyteller; Loving landscapes & Feeling at home in Iceland",
+            "url": "instagram.com/notes.of.a.lost.soul/",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_hFeXYjcBT194PV76vUC54j",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_hFeXYjcBT194PV76vUC54j",
+                        "path": "avatars/user_aMFWPu9VQrgF1PePxMLNCy/media_rvmVYBLt3Yc8ru3GHMJLGr.png",
+                        "extension": "png",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_aMFWPu9VQrgF1PePxMLNCy/media_rvmVYBLt3Yc8ru3GHMJLGr.png;resize(1200,9999,fit).png"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_eyivRrFWZFTmMXDR5GvGQc",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Iceland",
+                        "placeId": "ChIJQ2Dro1Ir0kgRmkXB5TQEim8"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_oBF7FubS6sE42uQP9sSNcD",
+        "type": "users",
+        "attributes": {
+            "username": "corinablu",
+            "name": "rina blu",
+            "bio": "",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_sTRUkg8UrnsNf18DDXyuwm",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_sTRUkg8UrnsNf18DDXyuwm",
+                        "path": "avatars/user_oBF7FubS6sE42uQP9sSNcD/media_qTsLL51b5KeLPH8mqE2T8y.png",
+                        "extension": "png",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_oBF7FubS6sE42uQP9sSNcD/media_qTsLL51b5KeLPH8mqE2T8y.png;resize(1200,9999,fit).png"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_9gaUeW4vUwBmJiYVDmsNTA",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Philadelphia, Pennsylvania",
+                        "placeId": "ChIJ60u11Ni3xokRwVg-jNgU9Yk"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_nnsWyds22AVd2kK32hFvvC",
+        "type": "users",
+        "attributes": {
+            "username": "celina.bieder",
+            "name": "Celina",
+            "bio": "inspired by life, love and imagination ✨",
+            "url": "",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_2swrduizYgPqu7pgKJArLG",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_2swrduizYgPqu7pgKJArLG",
+                        "path": "avatars/user_nnsWyds22AVd2kK32hFvvC/media_nDjdPtzEBnFS5E3qNysK7k.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_nnsWyds22AVd2kK32hFvvC/media_nDjdPtzEBnFS5E3qNysK7k.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_6ed12bFfuRanJyJp3PM9Yh",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Surrey, England",
+                        "placeId": "ChIJgSUS1VpV30cRd0IDXESDUtU"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_6LpLtdx6rTX6Y3rFVvpgwu",
+        "type": "users",
+        "attributes": {
+            "username": "theeoccultkidd",
+            "name": "Alisha Bounds",
+            "bio": "26 year old freelance artist and intuitive Tarotpreneur. I simply go by Ali.",
+            "url": "https//Theeoptimisticsagittari.us",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_e54m1GHfQKqqAyLqmc9hpn",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_e54m1GHfQKqqAyLqmc9hpn",
+                        "path": "avatars/user_6LpLtdx6rTX6Y3rFVvpgwu/media_7rRcUDSe6XPpstMK2c44TW.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_6LpLtdx6rTX6Y3rFVvpgwu/media_7rRcUDSe6XPpstMK2c44TW.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_7LTXQ6VBu8wDr7Xjc2Cqod",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Lancaster, California",
+                        "placeId": "ChIJQYDoaLFawoARBz4Lfc9yxFg"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_54xSukAE41Ap4yPUyZ6Mx4",
+        "type": "users",
+        "attributes": {
+            "username": "beccavee",
+            "name": "beccavee",
+            "bio": "",
+            "url": "",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_ke6MGGHuCrWzv74NbHrRZY",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_ke6MGGHuCrWzv74NbHrRZY",
+                        "path": "avatars/user_54xSukAE41Ap4yPUyZ6Mx4/media_n4umjpUxHhEKQhGTvMqLR3.heic",
+                        "extension": "heic",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_54xSukAE41Ap4yPUyZ6Mx4/media_n4umjpUxHhEKQhGTvMqLR3.heic;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_espb1jG8qft4C8w7SdkD9x",
+        "type": "users",
+        "attributes": {
+            "username": "davemikal",
+            "name": "David Williams",
+            "bio": "pessimistically optimistic!",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_5M8ytir7mHcgmJegXn6jfu",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_5M8ytir7mHcgmJegXn6jfu",
+                        "path": "avatars/user_espb1jG8qft4C8w7SdkD9x/media_nKi3QPYw2L13NEfaJFnSCY.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_espb1jG8qft4C8w7SdkD9x/media_nKi3QPYw2L13NEfaJFnSCY.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_8Q1THBwjnrENRUmU4TahrH",
+        "type": "users",
+        "attributes": {
+            "username": "alejandra_mendoza_35292",
+            "name": "Alejandra Pinazo",
+            "bio": "",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_uht3EpdwXRsuVhkwRxnPE3",
+        "type": "users",
+        "attributes": {
+            "username": "hafkathkelly",
+            "name": "Hafsah Kelly",
+            "bio": "",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {
+                "data": {
+                    "id": "location_7h2Na5CmrX3F3R7TWEMAsV",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Reading, England",
+                        "placeId": "ChIJtz092XggdEgRlHn6zn-f4So"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_mASpeb2RLTcQ5mXgThS8AW",
+        "type": "users",
+        "attributes": {
+            "username": "bagytovaf",
+            "name": "Fariza",
+            "bio": "🍍",
+            "url": "",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_wnE3bB3DZaiyRHz2iZfua5",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_wnE3bB3DZaiyRHz2iZfua5",
+                        "path": "avatars/user_mASpeb2RLTcQ5mXgThS8AW/media_dYSou9NjkMgeZ4h6Yepbwm.jpeg",
+                        "extension": "jpeg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_mASpeb2RLTcQ5mXgThS8AW/media_dYSou9NjkMgeZ4h6Yepbwm.jpeg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_r34t9mLQFJeuJWJft369jG",
+        "type": "users",
+        "attributes": {
+            "username": "bryce__charlie",
+            "name": "Bryce Charlie",
+            "bio": "More art.\nMore connection. ",
+            "url": "",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_fDuYTAZbUA3gHkufZBdATG",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_fDuYTAZbUA3gHkufZBdATG",
+                        "path": "avatars/user_r34t9mLQFJeuJWJft369jG/media_coY3gewLBxUsc2H8KVTN4R.jpg",
+                        "extension": "jpg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_r34t9mLQFJeuJWJft369jG/media_coY3gewLBxUsc2H8KVTN4R.jpg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_7yuR8dZmDC29un5ygU4KbQ",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "Montreal, Quebec",
+                        "placeId": "ChIJDbdkHFQayUwR7-8fITgxTmU"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_kf2eUFKJrUHsv12FW3cpZw",
+        "type": "users",
+        "attributes": {
+            "username": "who",
+            "name": "Tasneem",
+            "bio": "Wherever you are and however you create, I am sure that, together, we can find a way to make something worthwhile",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": {
+                "data": {
+                    "id": "attachment_9qSsV1KsFny1hxP4eDH9YV",
+                    "type": "attachments",
+                    "attributes": {
+                        "uuid": "attachment_9qSsV1KsFny1hxP4eDH9YV",
+                        "path": "avatars/user_kf2eUFKJrUHsv12FW3cpZw/media_rbpz9MbpHuFjCocFTRfVvh.jpeg",
+                        "extension": "jpeg",
+                        "type": "image",
+                        "metadata": {
+                            "width": 0,
+                            "height": 0,
+                            "processorMediaPath": "https://daisie-assets-production.accelerator.net/avatars/user_kf2eUFKJrUHsv12FW3cpZw/media_rbpz9MbpHuFjCocFTRfVvh.jpeg;resize(1200,9999,fit).jpg"
+                        }
+                    }
+                }
+            },
+            "location": {
+                "data": {
+                    "id": "location_sXqnUKxU8fpYWDMT8wVNtX",
+                    "type": "locations",
+                    "attributes": {
+                        "name": "İstanbul, Turkey",
+                        "placeId": "ChIJawhoAASnyhQR0LABvJj-zOE"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "id": "user_5NHZ3eQSUW3R2CeTi1W3ei",
+        "type": "users",
+        "attributes": {
+            "username": "hilza_berenice_valdes_618002",
+            "name": "Hilza B. Valdes",
+            "bio": "Hey :) i love create things and connect with other people\nwe can collaborate :D \n\n",
+            "url": "",
+            "flair": "super_user"
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {}
+        }
+    },
+    {
+        "id": "user_6NLoCB1ptYgDzj3eGFC4Bn",
+        "type": "users",
+        "attributes": {
+            "username": "jen_661478",
+            "name": "Jen",
+            "bio": "",
+            "url": "",
+            "flair": ""
+        },
+        "relationships": {
+            "avatar": { "data": { "attributes": {} } },
+            "location": {}
+        }
+    }
+]

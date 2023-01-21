@@ -5,6 +5,7 @@ const calendarData = calendarJson.data;
 
 const parsedCalendarData = calendarData.map((event) => ({
     id: event.id,
+    workshopBatch: event.relationships.batch?.data?.id,
     start: event.attributes.start.slice(0, 7),
     attendeeCount:
         event.relationships.batch?.data?.attributes?.attendeeCount ??
@@ -21,7 +22,7 @@ const parsedCalendarData = calendarData.map((event) => ({
 }));
 
 fs.writeFile(
-    `./parsedCalendarData3.json`,
+    `./parsedCalendarDataC.json`,
     JSON.stringify(parsedCalendarData),
     (err) => {
         if (err) {
